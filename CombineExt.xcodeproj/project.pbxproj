@@ -24,6 +24,7 @@
 /* Begin PBXBuildFile section */
 		1970A8AA25246FBD00799AB6 /* FilterMany.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1970A8A925246FBD00799AB6 /* FilterMany.swift */; };
 		1970A8B42524730500799AB6 /* FilterManyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1970A8B32524730400799AB6 /* FilterManyTests.swift */; };
+		2EB556F5278A09F400FFC2D9 /* LazyAssign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EB556F4278A09F400FFC2D9 /* LazyAssign.swift */; };
 		BF330EF624F1FFFE001281FC /* CombineSchedulers in Frameworks */ = {isa = PBXBuildFile; productRef = BF330EF524F1FFFE001281FC /* CombineSchedulers */; };
 		BF330EF924F20032001281FC /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF330EF824F20032001281FC /* Timer.swift */; };
 		BF330EFB24F20080001281FC /* Lock.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF330EFA24F20080001281FC /* Lock.swift */; };
@@ -108,6 +109,7 @@
 /* Begin PBXFileReference section */
 		1970A8A925246FBD00799AB6 /* FilterMany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterMany.swift; sourceTree = "<group>"; };
 		1970A8B32524730400799AB6 /* FilterManyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterManyTests.swift; sourceTree = "<group>"; };
+		2EB556F4278A09F400FFC2D9 /* LazyAssign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyAssign.swift; sourceTree = "<group>"; };
 		BF330EF824F20032001281FC /* Timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
 		BF330EFA24F20080001281FC /* Lock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lock.swift; sourceTree = "<group>"; };
 		BF3D3B5C253B83F300D830ED /* IgnoreFailure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IgnoreFailure.swift; sourceTree = "<group>"; };
@@ -241,6 +243,7 @@
 				OBJ_17 /* Amb.swift */,
 				OBJ_18 /* AssignOwnership.swift */,
 				OBJ_19 /* AssignToMany.swift */,
+				2EB556F4278A09F400FFC2D9 /* LazyAssign.swift */,
 				OBJ_20 /* CombineLatestMany.swift */,
 				OBJ_21 /* Create.swift */,
 				OBJ_22 /* Dematerialize.swift */,
@@ -587,6 +590,7 @@
 				OBJ_82 /* Event.swift in Sources */,
 				OBJ_83 /* ObjectOwnership.swift in Sources */,
 				OBJ_84 /* Amb.swift in Sources */,
+				2EB556F5278A09F400FFC2D9 /* LazyAssign.swift in Sources */,
 				OBJ_85 /* AssignOwnership.swift in Sources */,
 				OBJ_86 /* AssignToMany.swift in Sources */,
 				BF3D3B5D253B83F300D830ED /* IgnoreFailure.swift in Sources */,
